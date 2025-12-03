@@ -19,7 +19,7 @@
   },
   "license": "Apache-2.0",
   "resources": {
-    "homepage": "https://example.com/tvm802-generator"
+    "homepage": "https://github.com/skrubis/TVM802-kicad-pick-and-place-plugin"
   },
   "tags": [
     "tvm802",
@@ -34,4 +34,5 @@
       "runtime": "swig"
     }
   ]
+
 }
