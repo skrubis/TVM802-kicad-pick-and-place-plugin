@@ -1,0 +1,1 @@
+from . import tvm802_kicad_plugin  # Import for side effects: registers ActionPlugins
