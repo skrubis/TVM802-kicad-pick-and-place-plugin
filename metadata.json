@@ -3,7 +3,7 @@
   "name": "TVM802 Machine Data Export",
   "description": "Export TVM802 machine data and feeders templates from KiCad POS/positions files.",
   "description_full": "KiCad action plugin that exports TVM802 pick-and-place (machine) CSV files from KiCad POS or positions.csv files.\n\nFeatures:\n- Supports classic KiCad POS format and simple Designator/Mid X/Mid Y/Rotation positions files.\n- Generates full TVM802 machine data including panel and stack configuration.\n- Generates an unconfigured feeders template CSV to assign feeders by component type.\n- Lets you choose which FID* references are used as Mark 1 and Mark 2 fiducials.",
-  "identifier": "tvm802-generator",
+  "identifier": "org.kicad.TVM802-kicad-pick-and-place-plugin",
   "type": "plugin",
   "author": {
     "name": "skrubis",
@@ -36,3 +36,4 @@
   ]
 
 }
+
