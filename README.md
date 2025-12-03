@@ -1,6 +1,9 @@
 # TVM802-kicad-pick-and-place-plugin
 A plugin for chinese TVM802 type pick and place machines
 
+#how to install
+just dowload the archive and use kicad plugin manager to add this to your kicad installation
+
 #how to use
 In your Kicad PCBnew use plugin called "Fabrication toolkit" to create manufacturing outputs
 First generate a feeder template using your BoM and pos files, edit the feeder template.
